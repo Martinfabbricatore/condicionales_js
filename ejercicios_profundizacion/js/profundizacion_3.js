@@ -22,3 +22,11 @@
 // investigue y busque como utilizarla.
 
 // En cada caso imprimir en pantalla el resultado
+
+let temperatura1 = parseInt(prompt('Ingrese la primer temperatura:\n'));
+let temperatura2 = parseInt(prompt('Ingrese la segunda temperatura:\n'));
+let temperatura3 = parseInt(prompt('Ingrese la tercer temperatura:\n'));
+let temperaturamaxima = Math.max(temperatura1, temperatura2, temperatura3);
+let temperaturaminima = Math.min(temperatura1, temperatura2, temperatura3);
+alert("La temperatura maxima es, " + temperaturamaxima);
+alert("la temperatura minima es, " + temperaturaminima);
