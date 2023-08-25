@@ -1,19 +1,20 @@
-![Inove banner](inove.jpg)
-Inove Escuela de Código\
-info@inove.com.ar\
-Web: [Inove](http://inove.com.ar)
+# Tarea
 
-# ¡Introducción a condicionales! [Javascript]
-En este repositorio encontrarán las siguientes carpetas:
+Los ejercicios en los script de ejercitacion están comentados, de manera que deben ir "descomentandolos" cuando sea necesario. Los comentarios estan puestos de esta manera:
 
-__Ejemplos que el profesor mostrará en clase__\
-ejemplos_clase/
+```
+/* ELIMINE ESTE COMENTARIO
+let textoNumero = undefined; // <-- aquí está el código del ejercicio en un comentario largo
+console.log("etc");
+*/
+```
 
-__Ejercicios para que el alumno desarrolle lo visto en clase__\
-ejercicios_practica/
+Se debe quitar los caracteres de comentario largo /*  */ para poder realizar el ejercicio:
 
-__Ejercicios para que el alumno profundice lo visto en clase__\
-ejercicios_profundizacion/
+```
+let textoNumero = undefined; // <-- aquí está el código del ejercicio sin el comentario largo
+console.log("etc");
+```
+Ante cualquier inquietud, comuniquese con el profesor.
 
-# Consultas
-alumnos@inove.com.ar
+##### Éxitos!
